@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Deciding optimal time to commute takes quite a lot effort. Typical applications only give time how long travelling would take if started right away. Improved application is needed to predict how traffic volumes change during travel and use this information to estimate best time to leave according to predictions.
+Typical applications only give time how long travelling would take if started right away. Improved application is needed to predict how traffic volumes change during travel and use this information to estimate optimal time to leave according to predictions.
 
 
 ## Background
